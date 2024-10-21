@@ -1,2 +1,6 @@
 # mi-html-css-preppuppgift
-Prepp-uppgift
+
+Rolig Prepp-uppgift 😀
+
+TODO:
+Ta bort i framtiden
